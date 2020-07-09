@@ -1,0 +1,14 @@
+﻿  FindText.cpp
+  FindText.vcxproj -> Z:\OOP\Laba1\FindText\Debug\FindText.exe
+  Invalid arguments count
+  FindText.exe <input.txt> <text to search>
+  If output file is not specified, program msut fail
+  Test 1 passed
+  Invalid arguments count
+  FindText.exe <input.txt> <text to search>
+  If input and output files are not specified, program must fail
+  Test 2 passed
+  Invalid arguments count
+  FindText.exe <input.txt> <text to search>
+  If input and output files are not specified, program must fail
+  Test 3 passed

@@ -1,0 +1,8 @@
+﻿  dec2bin.cpp
+Z:\OOP\Laba1\dec2bin\dec2bin\dec2bin.cpp(39,16): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+Z:\OOP\Laba1\dec2bin\dec2bin\dec2bin.cpp(44,23): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 113 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  dec2bin.vcxproj -> Z:\OOP\Laba1\dec2bin\Release\dec2bin.exe
